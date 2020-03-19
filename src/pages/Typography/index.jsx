@@ -2,7 +2,6 @@ import React from 'react';
 
 import { PageHeaderWrapper } from '@ant-design/pro-layout';
 import { Typography, Divider, Card } from 'antd';
-import styles from './style.less';
 
 const { Title, Paragraph, Text } = Typography;
 
